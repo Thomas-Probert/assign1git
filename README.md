@@ -3,4 +3,4 @@ Thomas Probert
 
 //"First comment"
 
-//"Merge edit"
+//"Merge edit v1.2"
